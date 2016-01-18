@@ -1,0 +1,18 @@
+.lenguaje{
+	border: 3px solid orange;
+	width: 230px;
+	padding: 20px 10px;
+	margin: -3px 10px;
+}
+
+h1{
+	font: 20px Verdana;
+	margin: 0px;
+}
+
+p{
+	font: 15px Verdana;
+	color: #641298;
+	margin-top: 10px;
+	text-align: justify;
+}

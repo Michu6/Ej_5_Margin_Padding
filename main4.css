@@ -1,0 +1,15 @@
+.lenguaje{
+	border: 3px solid orange;
+	width: 230px;
+	margin: -3px 10px;
+}
+
+h1{
+	font: 20px Verdana;
+}
+
+p{
+	font: 15px Verdana;
+	color: #641298;
+	text-align: justify;
+}
